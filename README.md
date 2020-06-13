@@ -6,6 +6,7 @@
 - [Technologies](#technologies)
 - [Setup](#setup)
 - [Contributing](#contributing)
+- [Resources](#resources)
 
 ## General info
 
@@ -36,6 +37,11 @@ $ npm run dev
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
 Please make sure to update tests as appropriate.
+
+## Resources
+
+- [Get Bootstrap](https://getbootstrap.com/docs/3.4/getting-started/)
+- [Mockaroo - Dummy JSON Data](http://mockaroo.com)
 
 ## License
 
