@@ -1,4 +1,4 @@
-# Learning - NodeJs Express, Templating Emgine, API
+# Learning - NodeJs Express, Templating Engine, API
 
 ## Table of contents
 
