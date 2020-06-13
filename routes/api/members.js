@@ -41,7 +41,8 @@ router.post("/", (req, res) => {
 
   members.push(newMember);
 
-  return res.status(200).json(members);
+  //return res.status(200).json(members);
+  return res.redirect("/members");
 });
 
 //Delete member data
