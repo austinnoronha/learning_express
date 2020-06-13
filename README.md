@@ -1,21 +1,27 @@
-# Learning - NodeJs Express, Templating Emgine, API 
+# Learning - NodeJs Express, Templating Emgine, API
 
 ## Table of contents
-* [General info](#general-info)
-* [Technologies](#technologies)
-* [Setup](#setup)
-* [Contributing](#contributing)
+
+- [General info](#general-info)
+- [Technologies](#technologies)
+- [Setup](#setup)
+- [Contributing](#contributing)
 
 ## General info
-This is a simple learning activity wherein we will be learnign about nodejs, express, templating ad creating API'setup
-	
+
+This is a simple learning activity wherein we will be learning about nodejs, express, templating with handlebars and creating API with CRUD
+
 ## Technologies
+
 Project is created with:
-* Node Js: latest
-* Express
-* Nodemon
-	
+
+- Node Js: latest
+- Express
+- Nodemon
+- Express Handlebars
+
 ## Setup
+
 To run this project, install it locally using npm:
 
 ```bash
@@ -26,9 +32,11 @@ $ npm run dev
 ```
 
 ## Contributing
+
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
 Please make sure to update tests as appropriate.
 
 ## License
+
 [MIT](https://choosealicense.com/licenses/mit/)
