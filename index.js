@@ -9,7 +9,12 @@ const logger = require("./middleware/logger");
 const app = express();
 const PORT = process.env.PORT || 5000;
 
+//Middleware - App Logger
 app.use(logger);
+//Middleware - Body Parse
+app.use(express.json());
+//Middleware - URL Encoded
+app.use(express.urlencoded({ extended: false }));
 
 //App set static folder - with middleware
 app.use(express.static(path.join(__dirname, "public")));
