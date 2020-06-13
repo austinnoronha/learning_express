@@ -1,47 +1,47 @@
-
 //App Status Members Data
-const members = [{
-    "id": 1,
-    "first_name": "Moe",
-    "last_name": "Galway",
-    "email": "mgalway0@ycombinator.com",
-    "gender": "Male",
-    "status": "inavtive"
-  }, {
-    "id": 2,
-    "first_name": "Otto",
-    "last_name": "Calltone",
-    "email": "ocalltone1@sohu.com",
-    "gender": "Male",
-    "status": "inavtive"
-  }, {
-    "id": 3,
-    "first_name": "Clemmy",
-    "last_name": "Chesterman",
-    "email": "cchesterman2@sitemeter.com",
-    "gender": "Male",
-    "status": "active"
-  }, {
-    "id": 4,
-    "first_name": "Leeland",
-    "last_name": "Simek",
-    "email": "lsimek3@etsy.com",
-    "gender": "Male",
-    "status": "inavtive"
-  }, {
-    "id": 5,
-    "first_name": "Cassie",
-    "last_name": "Rosengart",
-    "email": "crosengart4@thetimes.co.uk",
-    "gender": "Male",
-    "status": "active"
-  }, {
-    "id": 6,
-    "first_name": "Ardelia",
-    "last_name": "McCumesky",
-    "email": "amccumesky5@netscape.com",
-    "gender": "Female",
-    "status": "active"
-  }];
+const members = [
+  {
+    id: 1,
+    name: "Josefa",
+    email: "jmetherell0@mit.edu",
+    gender: "Female",
+    status: "active",
+  },
+  {
+    id: 2,
+    name: "Durand",
+    email: "dwebermann1@europa.eu",
+    gender: "Male",
+    status: "inavtive",
+  },
+  {
+    id: 3,
+    name: "Kristine",
+    email: "kknowlman2@blogs.com",
+    gender: "Female",
+    status: "inavtive",
+  },
+  {
+    id: 4,
+    name: "Harlan",
+    email: "hmacanulty3@vkontakte.ru",
+    gender: "Male",
+    status: "inavtive",
+  },
+  {
+    id: 5,
+    name: "Kial",
+    email: "kmerriday4@nbcnews.com",
+    gender: "Female",
+    status: "inavtive",
+  },
+  {
+    id: 6,
+    name: "Leonie",
+    email: "lmessenger5@ftc.gov",
+    gender: "Female",
+    status: "active",
+  },
+];
 
-  module.exports = members;
+module.exports = members;
