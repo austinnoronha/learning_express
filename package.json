@@ -1,0 +1,23 @@
+{
+  "name": "learning_express",
+  "version": "1.0.0",
+  "description": "Learning Express Fra,ework with a Simple Templating Engine! #letscode",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index",
+    "dev": "nodemon index"
+  },
+  "keywords": [
+    "nodejs",
+    "express",
+    "framework"
+  ],
+  "author": "Austin Noronha @buzzingcode",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
+}
