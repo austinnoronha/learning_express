@@ -1,0 +1,34 @@
+# Learning - NodeJs Express, Templating Emgine, API 
+
+## Table of contents
+* [General info](#general-info)
+* [Technologies](#technologies)
+* [Setup](#setup)
+* [Contributing](#contributing)
+
+## General info
+This is a simple learning activity wherein we will be learnign about nodejs, express, templating ad creating API'setup
+	
+## Technologies
+Project is created with:
+* Node Js: latest
+* Express
+* Nodemon
+	
+## Setup
+To run this project, install it locally using npm:
+
+```bash
+$ git clone https://github.com/austinnoronha/learning_express.git
+$ cd learning_express
+$ npm install
+$ npm run dev
+```
+
+## Contributing
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+
+Please make sure to update tests as appropriate.
+
+## License
+[MIT](https://choosealicense.com/licenses/mit/)
